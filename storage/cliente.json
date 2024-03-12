@@ -1,0 +1,14 @@
+{
+    "clientes" : [
+        {
+            "codigo": 123,
+            "nombre": "Royver Sevasthian",
+            "apellido": "Verdugo Rojas"
+        },
+        {
+            "codigo": 456,
+            "nombre":"Maria Jose",
+            "apellido": "Nuñes Sanabria"
+        }
+    ]
+}

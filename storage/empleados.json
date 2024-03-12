@@ -1,0 +1,16 @@
+{
+    "empleados" : [
+        {
+            "codigo": 123,
+            "nombre": "Andre",
+            "apellido": "Verdugo Rojas",
+            "id": 1
+        },
+        {
+            "codigo": 456,
+            "nombre":"Ronaldo",
+            "apellido": "Nuñes Sanabria",
+            "id": 2
+        }
+    ]
+}
