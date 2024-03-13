@@ -1,5 +1,59 @@
 import json
-import requests
+
+plantilla = '{"nombre": "miguel" }'
+#
+plantilla = json.loads(plantilla)
+
+exame = list(
+
+)
+
+#
+exame = json.dumps(exame, indent=4)
+
+print(exame)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+# import requests
 # empleadoNuevo = {
 #     "codigo":10,
 #     "nombre": "Sevas",
@@ -10,3 +64,5 @@ import requests
 
 # eliminar = requests.delete("http://172.16.100.145:55005")
 # print(eliminar)
+
+#como levantar un servidor json-sever
